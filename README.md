@@ -4,61 +4,74 @@ Ur Welcome Shmuks]
 
 Amazing code video that explains everything: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi67PKq5aHvAhURbs0KHQ25DdUQwqsBMAN6BAgFEAs&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3HtCQCFk1W0&usg=AOvVaw31KTxL_OnvATZDuO_vGCUh
 
-I have no liabilty for the profinaty in this song. 
 
-Gucci Gang"
+"All Star"
 
-[Lil Pump, Gnealz & Big Head:]
-Gucci gang (that's it right there, Gnealz)
-Yuh, Lil Pump
-Gucci gang (Bi-big Head on the beat)
+Somebody once told me the world is gonna roll me
+I ain't the sharpest tool in the shed
+She was looking kind of dumb with her finger and her thumb
+In the shape of an "L" on her forehead
 
-Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Spend three racks on a new chain
-My bitch love do cocaine
-I fuck a bitch, I forgot her name
-I can't buy a bitch no wedding ring
-Rather go and buy Balmains
-Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Spend three racks on a new chain
-My bitch love do cocaine
-I fuck a bitch, I forgot her name
-I can't buy no bitch no wedding ring no
-Rather go and buy Balmains
-Gucci gang, Gucci gang, Gucci gang
+Well, the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
 
-My lean cost more than your rent, it do
-Your momma still live in a tent
-Still slanging dope in the 'jects
-Me and my grandma take meds
-None of this shit be new to me, no
-Fucking my teacher, call it 'tutory
-Bought some red bottoms, cost hella Gs
-Fuck your airline, fuck your company fuck it
-Bitch your breath smell like some cigarettes cigarettes
-I'd rather fuck a bitch from the projects
-They kicked me out the plane off a Percocet
-Now Lil Pump flying private jet
-Everybody scream, "Fuck WestJet!" (Fuck em)
-Lil Pump still sell that meth
-Hundred on my wrist sipping on Tech
-Fuck a lil bitch, make her pussy wet what?
+So much to do, so much to see
+So what's wrong with taking the back streets?
+You'll never know if you don't go
+You'll never shine if you don't glow
 
-Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Spend three racks on a new chain
-My bitch love do cocaine
-I fuck a bitch, I forgot her name
-I can't buy a bitch no wedding ring
-Rather go and buy Balmains
-Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang!)
-Spend three racks on a new chain
-My bitch love do cocaine
-I fuck a bitch, I forgot her name
-I can't buy no bitch no wedding ring no
-Rather go and buy Balmains
-Gucci gang, Gucci gang, Gucci gang
+Hey, now, you're an all-star, get your game on, go play
+Hey, now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold
 
-Lil Pump
-Lil Pump
+It's a cool place and they say it gets colder
+You're bundled up now wait 'til you get older
+But the meteor men beg to differ
+Judging by the hole in the satellite picture
+
+The ice we skate is getting pretty thin
+The water's getting warm so you might as well swim
+My world's on fire. How about yours?
+That's the way I like it and I'll never get bored
+
+Hey, now, you're an all-star, get your game on, go play
+Hey, now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold
+
+Go for the moon
+Go for the moon
+Go for the moon
+Go for the moon
+
+Hey, now, you're an all-star, get your game on, go play
+Hey, now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars
+
+Somebody once asked could I spare some change for gas
+I need to get myself away from this place
+I said yep, what a concept
+I could use a little fuel myself
+And we could all use a little change
+
+Well, the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
+
+So much to do, so much to see
+So what's wrong with taking the back streets?
+You'll never know if you don't go
+You'll never shine if you don't glow
+
+Hey, now, you're an all star, get your game on, go play
+Hey, now, you're a rock star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold
+
+And all that glitters is gold
+Only shooting stars break the mold
