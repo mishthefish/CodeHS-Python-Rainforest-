@@ -1,6 +1,6 @@
 # CodeHS-Python-Rainforest-
 Repository of all the answers for the CodeHS Python (Rainforest) course. 
-Ur Welcome Shmuks]
+Ur Welcome Shmuks
 
 Amazing code video that explains everything: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi67PKq5aHvAhURbs0KHQ25DdUQwqsBMAN6BAgFEAs&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3HtCQCFk1W0&usg=AOvVaw31KTxL_OnvATZDuO_vGCUh
 
