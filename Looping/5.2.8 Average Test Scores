@@ -1,0 +1,14 @@
+total = 0
+
+#testOne = int(input("What is the first test score?"))
+#testTwo = int(input("What is the second test scroe?"))
+#testThree = int(input("What is the 
+
+
+
+for i in range(3):
+    test = int(input("What is the test score?"))
+    total = total + test
+
+average = total / 3 
+print average
