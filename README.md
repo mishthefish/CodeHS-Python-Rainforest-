@@ -4,6 +4,10 @@ Ur Welcome Shmuks]
 
 Amazing code video that explains everything: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi67PKq5aHvAhURbs0KHQ25DdUQwqsBMAN6BAgFEAs&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3HtCQCFk1W0&usg=AOvVaw31KTxL_OnvATZDuO_vGCUh
 
+![image](https://user-images.githubusercontent.com/64118255/110399750-5a892180-8044-11eb-94e1-0f3515029276.jpeg)
+
+![image](https://user-images.githubusercontent.com/64118255/110399800-78568680-8044-11eb-9832-80250b96e86e.jpeg)
+
 
 "All Star"
 
