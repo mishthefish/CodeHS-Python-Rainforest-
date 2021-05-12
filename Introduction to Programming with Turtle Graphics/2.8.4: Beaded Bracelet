@@ -1,0 +1,14 @@
+speed(0) 
+penup()
+setposition(0,100)
+
+def make_circles():
+    for i in range(36):
+        circle(10)
+        left(10)
+        penup()
+        
+        forward(20)
+        pendown()
+pendown()
+make_circles()
