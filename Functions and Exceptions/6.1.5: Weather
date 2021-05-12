@@ -1,0 +1,19 @@
+def bruh():
+     print "On a rainy day, galoshes are appropriate footwear."
+
+def sup():
+    print "On a sunny day, sandals are appropriate footwear." 
+
+
+def hey():
+    print "On a snowy day, boots are appropriate footwear."
+    
+name = input("What is the weather? (sunny, rainy, snowy):")
+if name == "rainy":
+    bruh()
+elif name == "sunny":
+    sup()
+elif name == "snowy":
+    hey()
+else: 
+    print"Incorrect input"
