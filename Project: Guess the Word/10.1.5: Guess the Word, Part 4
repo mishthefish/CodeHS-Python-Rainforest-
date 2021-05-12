@@ -46,7 +46,7 @@ while guesses_left > 0 and dashes != secret_word:
         
 #Print result 
 if guesses_left ==0:
-    print "You loose. The word was: " + secret_word
+    print "You lose"
 else:
-    print "Congrats! You win. The word was: " + secret_word
+    print "You Win." 
     
