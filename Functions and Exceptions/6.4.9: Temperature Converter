@@ -1,0 +1,32 @@
+# Write your function for converting Celsius to Fahrenheit here.
+# Make sure to include a comment at the top that says what
+# each function does!
+
+
+
+
+# Now write your function for converting Fahrenheit to Celsius.
+def convert_to_Celsius(faren):
+    total = (faren -32) / 1.8
+    return total
+    
+def convertToFaren(celci):
+    total = (celci * 1.8) + 32
+    return total
+
+
+
+# Now change 0C to F:
+print convertToFaren(0)
+
+
+# Change 100C to F:
+print convertToFaren(100)
+
+
+# Change 40F to C:
+print convert_to_Celsius(40)
+
+# Change 80F to C:
+
+print convert_to_Celsius(80)
