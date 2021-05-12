@@ -1,0 +1,26 @@
+num1 = int(input("What is the first number?: "))
+num2 = int(input("What is the second number?: "))
+op = input("Choose an operation (add, subtract, multiply): ")
+
+
+def mult():
+    total = num1 * num2
+    print str(num1) + " * " + str(num2) + " = " + str(total)
+    
+def add():
+    total = num1 + num2 
+    print str(num1) + " + " + str(num2) + " = " + str(total)
+
+def sub():
+    total = num1 - num2
+    print str(num1) + " - " + str(num2) + " = " + str(total)
+
+
+if op == "add":
+    add()
+elif op == "subtract":
+    sub()
+elif op == "multiply":
+    mult()
+else:
+    print "Invalid operation"
