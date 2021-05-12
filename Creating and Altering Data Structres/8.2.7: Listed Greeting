@@ -1,0 +1,7 @@
+data = input("Enter the following info- Name Age Favorite Sport: ")
+
+data = data.split()
+
+
+
+print ("Hello, " + data[0] + "! I also enjoy " + data[2] + "!")
