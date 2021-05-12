@@ -1,0 +1,8 @@
+def printString(string, amount):
+    for i in range (amount):
+        print string
+
+        
+printString()
+printString("hello", 5)
+printString("dumb", 6)
