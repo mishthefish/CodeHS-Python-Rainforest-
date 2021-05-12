@@ -1,0 +1,11 @@
+bro = "!"
+text = input("Enter text: ") 
+text = list(text)
+index = 0
+
+for i in range (len(text)):
+    if text[index] == "i":
+        text[index] = bro
+    index = index +1
+        
+print ("".join(text))
