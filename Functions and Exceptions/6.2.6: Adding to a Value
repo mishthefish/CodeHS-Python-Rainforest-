@@ -1,0 +1,9 @@
+num1 = 10
+num = int(input("Number?:"))
+
+def add():
+    total = num1 + num
+    print total
+
+# Your code here...
+add()
