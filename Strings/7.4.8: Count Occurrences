@@ -1,0 +1,12 @@
+def count_occurrences(a,b):
+    counter = 0
+    for checker in a:
+        if(checker == b):
+            counter+=1
+    return counter
+
+
+
+one = input("What is the first word")
+two = input("What is the second word")
+print count_occurrences(one, two)
