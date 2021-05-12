@@ -1,0 +1,10 @@
+info = input("Enter some text: ")
+info = info.lower()
+info = info.split()
+
+
+
+print ("There were " + str(info.count("owl")) + " words that conatined \"owl\" ")
+print ("They occured at indices") 
+for c, value in enumerate(info, 1):
+    print(c, value)
