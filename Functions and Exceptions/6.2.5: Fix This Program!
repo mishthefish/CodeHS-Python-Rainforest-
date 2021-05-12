@@ -1,0 +1,7 @@
+num_one = 1
+num_two = 2 
+
+
+sum = num_one + num_two 
+
+print(sum)
