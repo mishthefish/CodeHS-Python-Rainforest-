@@ -1,0 +1,4 @@
+length = 10
+width = 5
+print length * width
+print 2*(length + width)
